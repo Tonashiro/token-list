@@ -4,7 +4,7 @@
   "keywords": [
     "monad mainnet"
   ],
-  "timestamp": "2025-11-21T09:13:52.102090+00:00",
+  "timestamp": "2025-11-21T23:29:03.747104+00:00",
   "tokens": [
     {
       "chainId": 143,
@@ -96,7 +96,7 @@
     },
     {
       "chainId": 143,
-      "address": "0x1ce060D47A0Fd08B0869748FD7eccF151F4eC5d1",
+      "address": "0x1B68626dCa36c7fE922fD2d55E4f631d962dE19c",
       "name": "ShMonad",
       "symbol": "shMON",
       "decimals": 18,
@@ -136,8 +136,8 @@
     }
   ],
   "version": {
-    "major": 1,
-    "minor": 11,
+    "major": 2,
+    "minor": 0,
     "patch": 0
   }
 }
