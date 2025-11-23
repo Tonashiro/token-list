@@ -4,7 +4,7 @@
   "keywords": [
     "monad mainnet"
   ],
-  "timestamp": "2025-11-23T15:27:09.438413+00:00",
+  "timestamp": "2025-11-23T15:27:32.562085+00:00",
   "tokens": [
     {
       "chainId": 143,
@@ -16,6 +16,14 @@
         "coinGeckoId": "agora-dollar"
       },
       "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/AUSD/logo.svg"
+    },
+    {
+      "chainId": 143,
+      "address": "0xB0F70C0bD6FD87dbEb7C10dC692a2a6106817072",
+      "name": "Bitcoin",
+      "symbol": "BTC.b",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/BTC.b/logo.svg"
     },
     {
       "chainId": 143,
@@ -212,7 +220,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   }
 }
