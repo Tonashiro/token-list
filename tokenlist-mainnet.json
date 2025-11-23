@@ -4,7 +4,7 @@
   "keywords": [
     "monad mainnet"
   ],
-  "timestamp": "2025-11-23T12:45:29.795046+00:00",
+  "timestamp": "2025-11-23T15:27:09.438413+00:00",
   "tokens": [
     {
       "chainId": 143,
@@ -27,6 +27,17 @@
         "coinGeckoId": "folks"
       },
       "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/FOLKS/logo.svg"
+    },
+    {
+      "chainId": 143,
+      "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+      "name": "Lombard Staked Bitcoin",
+      "symbol": "LBTC",
+      "decimals": 8,
+      "extensions": {
+        "coinGeckoId": "lombard-staked-btc"
+      },
+      "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/LBTC/logo.svg"
     },
     {
       "chainId": 143,
@@ -201,7 +212,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 4,
-    "patch": 1
+    "minor": 5,
+    "patch": 0
   }
 }
