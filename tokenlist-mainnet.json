@@ -4,7 +4,7 @@
   "keywords": [
     "monad mainnet"
   ],
-  "timestamp": "2025-11-23T15:27:59.591737+00:00",
+  "timestamp": "2025-11-23T15:28:34.269258+00:00",
   "tokens": [
     {
       "chainId": 143,
@@ -57,6 +57,22 @@
         "coinGeckoId": "lombard-staked-btc"
       },
       "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/LBTC/logo.svg"
+    },
+    {
+      "chainId": 143,
+      "address": "0x91b81bfbe3A747230F0529Aa28d8b2Bc898E6D56",
+      "name": "LeverUp MON",
+      "symbol": "LVMON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/LVMON/logo.svg"
+    },
+    {
+      "chainId": 143,
+      "address": "0xFD44B35139Ae53FFF7d8F2A9869c503D987f00d1",
+      "name": "LeverUp USD",
+      "symbol": "LVUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/LVUSD/logo.svg"
     },
     {
       "chainId": 143,
@@ -242,7 +258,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   }
 }
