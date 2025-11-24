@@ -4,7 +4,7 @@
   "keywords": [
     "monad mainnet"
   ],
-  "timestamp": "2025-11-24T12:36:14.955549+00:00",
+  "timestamp": "2025-11-24T20:42:21.496616+00:00",
   "tokens": [
     {
       "chainId": 143,
@@ -250,6 +250,14 @@
     },
     {
       "chainId": 143,
+      "address": "0xD793c04B87386A6bb84ee61D98e0065FdE7fdA5E",
+      "name": "sAUSD",
+      "symbol": "sAUSD",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/sAUSD/logo.svg"
+    },
+    {
+      "chainId": 143,
       "address": "0xA3227C5969757783154C60bF0bC1944180ed81B9",
       "name": "Kintsu Staked Monad",
       "symbol": "sMON",
@@ -302,7 +310,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 13,
+    "minor": 14,
     "patch": 0
   }
 }
