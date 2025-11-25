@@ -4,7 +4,7 @@
   "keywords": [
     "monad mainnet"
   ],
-  "timestamp": "2025-11-24T20:42:21.496616+00:00",
+  "timestamp": "2025-11-25T11:47:21.876362+00:00",
   "tokens": [
     {
       "chainId": 143,
@@ -128,7 +128,7 @@
     {
       "chainId": 143,
       "address": "0x111111d2bf19e43C34263401e0CAd979eD1cdb61",
-      "name": "USD1",
+      "name": "World Liberty Financial USD",
       "symbol": "USD1",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/monad-crypto/token-list/refs/heads/main/mainnet/USD1/logo.svg"
@@ -311,6 +311,6 @@
   "version": {
     "major": 2,
     "minor": 14,
-    "patch": 0
+    "patch": 1
   }
 }
